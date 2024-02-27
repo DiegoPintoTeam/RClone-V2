@@ -2,7 +2,7 @@ Puerto Ssh
 ```
 localhost:53682
 ```
-Inicie sesión en su servidor SSH y abra la terminal. Ejecute el siguiente comando y el último Rclone estará instalado y listo para funcionar:
+Inicie sesión en su servidor SSH y abra la terminal. Ejecute el siguiente comando y el último RClone estará instalado y listo para funcionar:
 ```
 apt install zip unzip curl ; curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip ; unzip rclone-current-linux-amd64.zip ; cd rclone-*-linux-amd64 ; sudo cp rclone /usr/bin/ ; sudo chown root:root /usr/bin/rclone ; sudo chmod 755 /usr/bin/rclone ; rclone version
 ```
