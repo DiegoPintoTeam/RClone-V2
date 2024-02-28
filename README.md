@@ -24,7 +24,7 @@ Los usuarios de Xtream UI o XUI ONE utilizan lo siguiente:
 ```
 nano /etc/crontab
 ```
-Descanse, use esto para la configuración cron:
+Reemplazar el nombre crontab a crontab -e:
 ```
 crontab -e
 ```
