@@ -22,7 +22,7 @@ Ahora que nuestra carpeta está creada, necesitamos montar nuestro directorio en
 
 Los usuarios de Xtream UI o XUI ONE utilizan lo siguiente:
 ```
-nano etc/crontab
+nano /etc/crontab
 ```
 Descanse, use esto para la configuración cron:
 ```
