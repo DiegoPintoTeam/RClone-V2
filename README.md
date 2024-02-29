@@ -24,7 +24,7 @@ Los usuarios de Xtream UI o XUI ONE utilizan lo siguiente:
 ```
 nano /etc/crontab
 ```
-Dentro de la carpeta reemplazar el nombre crontab: a crontab -e:
+Dentro de la carpeta reemplazar el nombre crontab a crontab -e:
 ```
 crontab -e:
 ```
