@@ -28,7 +28,7 @@ Dentro de la carpeta reemplazar el nombre crontab a crontab -e:
 ```
 crontab -e:
 ```
-Verás algunos comandos ya configurados, ve al último y agrega el siguiente comando:
+Luego, ve a lo último y agrega el siguiente comando:
 ```
 @reboot root rclone mount VOD: /VOD --copy-links --no-gzip-encoding --no-check-certificate --allow-other --allow-non-empty --umask 000 --vfs-cache-mode writes
 ```
